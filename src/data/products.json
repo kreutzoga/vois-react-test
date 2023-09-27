@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "name": "Poly Edge 550",
+    "price": 30,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "imagePath": "item1.png",
+    "keyFeatures": [
+      {
+        "featureName": "Lines",
+        "featureValue": "24 Lines"
+      },
+      {
+        "featureName": "Display",
+        "featureValue": "102 Colour"
+      },
+      {
+        "featureName": "Bluetooth",
+        "featureValue": "Yes with Moblie Pairing"
+      },
+      {
+        "featureName": "Connection",
+        "featureValue": "4 x Rj45 and Wi-Fi"
+      },
+      {
+        "featureName": "USB",
+        "featureValue": "6 x USB-C, 2 x USB-D"
+      },
+      {
+        "featureName": "PoE",
+        "featureValue": "Yes"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Poly Edge E320",
+    "price": 30,
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "imagePath": "item2.png",
+    "keyFeatures": [
+      {
+        "featureName": "Lines",
+        "featureValue": "6 Lines"
+      },
+      {
+        "featureName": "Display",
+        "featureValue": "5 Colour"
+      },
+      {
+        "featureName": "Bluetooth",
+        "featureValue": "No"
+      },
+      {
+        "featureName": "Connection",
+        "featureValue": "1 x Rj45"
+      },
+      {
+        "featureName": "USB",
+        "featureValue": "1 x USB-C"
+      },
+      {
+        "featureName": "PoE",
+        "featureValue": "No"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Poly Edge B30",
+    "price": 210,
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+    "imagePath": "item3.png",
+    "keyFeatures": [
+      {
+        "featureName": "Lines",
+        "featureValue": "12 Lines"
+      },
+      {
+        "featureName": "Display",
+        "featureValue": "5 Colour"
+      },
+      {
+        "featureName": "Bluetooth",
+        "featureValue": "Yes with Moblie Pairing"
+      },
+      {
+        "featureName": "Connection",
+        "featureValue": "2 x Rj45 and Wi-Fi"
+      },
+      {
+        "featureName": "USB",
+        "featureValue": "2 x USB-C"
+      },
+      {
+        "featureName": "PoE",
+        "featureValue": "Yes"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Nokia 3210",
+    "price": 2010,
+    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "imagePath": "item4.png",
+    "keyFeatures": [
+      {
+        "featureName": "Release",
+        "featureValue": "1999"
+      },
+      {
+        "featureName": "Battery",
+        "featureValue": "1250 mAh"
+      },
+      {
+        "featureName": "Bluetooth",
+        "featureValue": "Yes"
+      },
+      {
+        "featureName": "Weight",
+        "featureValue": "151 g"
+      },
+      {
+        "featureName": "Size",
+        "featureValue": "123,8 x 50,5 x 22,5 mm"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "BlackWire 52xx",
+    "price": 29,
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "imagePath": "item5.png",
+    "keyFeatures": [
+      {
+        "featureName": "Wireless",
+        "featureValue": "No"
+      },
+      {
+        "featureName": "Connection",
+        "featureValue": "USB and 3.5 mm Jack"
+      },
+      {
+        "featureName": "Min freq.",
+        "featureValue": "20 Hz"
+      },
+      {
+        "featureName": "Max freq.",
+        "featureValue": "20000  Hz"
+      },
+      {
+        "featureName": "Sensitivity",
+        "featureValue": "118 dB"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Voyager 43xx",
+    "price": 29,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "imagePath": "item6.png",
+    "keyFeatures": [
+      {
+        "featureName": "Wireless",
+        "featureValue": "Yes"
+      },
+      {
+        "featureName": "Connection",
+        "featureValue": "Bluetooth"
+      },
+      {
+        "featureName": "Min freq.",
+        "featureValue": "20 Hz"
+      },
+      {
+        "featureName": "Max freq.",
+        "featureValue": "20000  Hz"
+      },
+      {
+        "featureName": "Sensitivity",
+        "featureValue": "102 dB"
+      },
+      {
+        "featureName": "Weight",
+        "featureValue": "162 g"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Savi 72xx",
+    "price": 29,
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "imagePath": "item7.png",
+    "keyFeatures": [
+      {
+        "featureName": "Wireless",
+        "featureValue": "Yes"
+      },
+      {
+        "featureName": "Connection",
+        "featureValue": "Bluetooth"
+      },
+      {
+        "featureName": "Min freq.",
+        "featureValue": "20 Hz"
+      },
+      {
+        "featureName": "Max freq.",
+        "featureValue": "6800 Hz"
+      },
+      {
+        "featureName": "Sensitivity",
+        "featureValue": "102 dB"
+      },
+      {
+        "featureName": "Weight",
+        "featureValue": "138 g"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Voyager Free 60",
+    "price": 29,
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+    "imagePath": "item8.png",
+    "keyFeatures": [
+      {
+        "featureName": "Wireless",
+        "featureValue": "Yes"
+      },
+      {
+        "featureName": "Connection",
+        "featureValue": "Bluetooth"
+      },
+      {
+        "featureName": "Min freq.",
+        "featureValue": "20 Hz"
+      },
+      {
+        "featureName": "Max freq.",
+        "featureValue": "20000 Hz"
+      },
+      {
+        "featureName": "Microphone",
+        "featureValue": "Yes"
+      }
+    ]
+  }
+]

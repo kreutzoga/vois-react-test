@@ -1,0 +1,14 @@
+.title-text {
+  margin: 20px;
+}
+
+.go-back-button {
+  background-color: #e60000;
+  width: 200px;
+  height: 40px;
+  color: white;
+  border-radius: 10px;
+  margin-left: 20px;
+  border: none;
+  cursor: pointer;
+}

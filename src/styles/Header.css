@@ -1,0 +1,42 @@
+.page-header {
+  height: 50px;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+  background-color: #233239;
+}
+
+.placeholder-box {
+  width: 130px;
+}
+
+.shopping-cart-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  text-align: right;
+  cursor: pointer;
+}
+
+.shopping-cart-icon {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
+
+.count-circle {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  bottom: 3px;
+  left: -7px;
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
